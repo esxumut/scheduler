@@ -1116,22 +1116,4 @@ if not IsDuplicityVersion() then
 end
 
 if GetCurrentResourceName() == "spawnmanager" then
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
-	print('Esx_UmuT SikeR')
   end
